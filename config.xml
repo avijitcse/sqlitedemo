@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.geo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Contact</name>
+    <name>Phonebook</name>
     <description>
-        Contact List is a sample application that responds to the deviceready event.
+        Phonebook geolocation
     </description>
     <author email="avijitcse@hotmail.com" href="http://phonegap.com">
         Avijit Sarkar
