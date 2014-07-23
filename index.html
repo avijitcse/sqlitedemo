@@ -36,7 +36,7 @@ function success(position) {
   mapcanvas.style.width = '560px';
     
   document.querySelector('article').appendChild(mapcanvas);
-  
+  alert(position.coords.latitude+' '+position.coords.longitude);
   var latlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
   var myOptions = {
     zoom: 15,
